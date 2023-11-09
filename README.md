@@ -1,7 +1,7 @@
 # Linux
 ![images](img/linux.png)
-1. Introduccion
-2. Caracteristicas
-3. Distribuciones
+1. [Introduccion](introduccion.md)
+2. [Caracteristicas](caracteristicas.md)
+3. [Distribuciones](distribuciones.md)
 
 ## Referencias
